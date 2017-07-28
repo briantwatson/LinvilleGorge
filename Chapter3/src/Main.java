@@ -8,7 +8,7 @@ public class Main {
         Scanner testing = new Scanner(System.in);
         int segments = testing.nextInt();
 
-        tree(2,4);
+        tree(segments,5);
         base();
 
     }
